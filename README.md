@@ -47,11 +47,6 @@ The dashboard enables HR professionals to explore attrition rates by demographic
 ### 🔹 Department by Human Resources
 ![Department by Human Resources Insights](Images/Department_HumanResources.png) 
 
-### 🔹 Department Insights  
-### 🔹 Department Research & Development
-![Department by Research & Development Insights](Images/Department_Research & Development.png)
-
-### 🔹 Department Insights  
 ### 🔹 Department Sales
 ![Department by Sales Insights](Images/Department_Sales.png)
 
