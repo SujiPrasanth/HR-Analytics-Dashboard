@@ -37,19 +37,22 @@ The dashboard enables HR professionals to explore attrition rates by demographic
 ✔️ **Compensation Insights** – Relation between income and attrition  
 
 ---
-
-## 📸 Dashboard Screenshots
-🔹 Attrition Overview  
-🔹 Department & Job Role Insights  
-🔹 Final Dashboard  
+  
 ## 📸 Dashboard Screenshots  
 
 ### 🔹 Attrition Overview  
 ![Attrition Overview](Images/Dashboard_Overview.png)  
 
 ### 🔹 Department Insights  
+### 🔹 Department by Human Resources
 ![Department by Human Resources Insights](Images/Department_HumanResources.png) 
+
+### 🔹 Department Insights  
+### 🔹 Department Research & Development
 ![Department by Research & Development Insights](Images/Department_Research & Development.png)
+
+### 🔹 Department Insights  
+### 🔹 Department Sales
 ![Department by Sales Insights](Images/Department_Sales.png)
 
 ### 🔹 Final Dashboard  
